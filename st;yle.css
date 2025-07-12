@@ -1,0 +1,21 @@
+.head{
+    display: flex;
+}
+.head > label , input , button{
+    margin: 10px;
+}
+.head > label , input{
+    height: 20px;
+}
+.head > button{
+    height: 20px;
+    margin-top: 43px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: hsl(199, 96%, 49%);
+}
+.head > label , input{
+    margin-top: 40px;
+}
